@@ -639,7 +639,7 @@ height: 30px;</string>
         </rect>
        </property>
        <property name="currentIndex">
-        <number>5</number>
+        <number>0</number>
        </property>
        <widget class="QWidget" name="page">
         <widget class="QLabel" name="label_4">
@@ -655,7 +655,7 @@ height: 30px;</string>
           <string notr="true">color: black;</string>
          </property>
          <property name="text">
-          <string>                                                                  Home Page</string>
+          <string>                                                                  Home Page  (design new branch !)</string>
          </property>
         </widget>
        </widget>
