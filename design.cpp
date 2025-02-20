@@ -1,5 +1,7 @@
 #include "design.h"
 
+//njarbou branch jdida esmha design
+
 void applyDesign(Ui::MainWindow *ui)
 {
     ui->iconOnlySidebar->hide();

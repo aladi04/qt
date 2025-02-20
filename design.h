@@ -4,6 +4,8 @@
 #include <QPushButton>
 #include "ui_mainwindow.h"
 
+
+//new branch !
 void applyDesign(Ui::MainWindow *ui);
 
 #endif // DESIGN_H
