@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>../../../Pictures/projetQt/arbitre.png</file>
+        <file>../../../Pictures/projetQt/competition.png</file>
+        <file>../../../Pictures/projetQt/equipe.jpg</file>
+        <file>../../../Pictures/projetQt/home.png</file>
+        <file>../../../Pictures/projetQt/joueur.jpg</file>
+        <file>../../../Pictures/projetQt/logo2.jpg</file>
+        <file>../../../Pictures/projetQt/logout.png</file>
+        <file>../../../Pictures/projetQt/match.png</file>
+        <file>../../../Pictures/projetQt/menu.png</file>
+        <file>../../../Pictures/projetQt/search.jpg</file>
+        <file>../../../Pictures/projetQt/stade.png</file>
+        <file>../../../Pictures/projetQt/tri.png</file>
+        <file>../../../Pictures/projetQt/plus.png</file>
+        <file>../../../Pictures/projetQt/pdf.png</file>
+        <file>../../../Pictures/projetQt/supprimer.png</file>
+        <file>../../../Pictures/projetQt/down.png</file>
+        <file>../../../Downloads/home (1).png</file>
+        <file>../../../Downloads/home.png</file>
+        <file>../../../Downloads/trophy (1).png</file>
+        <file>../../../Downloads/trophy.png</file>
+        <file>../../../Downloads/football-pitch (1).png</file>
+        <file>../../../Downloads/football-pitch.png</file>
+        <file>../../../Downloads/group (1).png</file>
+        <file>../../../Downloads/group.png</file>
+        <file>../../../Downloads/soccer-player (1).png</file>
+        <file>../../../Downloads/soccer-player.png</file>
+        <file>../../../Downloads/referee (1).png</file>
+        <file>../../../Downloads/referee.png</file>
+        <file>../../../Downloads/stadium (1).png</file>
+        <file>../../../Downloads/stadium.png</file>
+        <file>../../../Downloads/bin (1).png</file>
+        <file>../../../Downloads/bin.png</file>
+        <file>../../../Downloads/bg-img.jpg</file>
+    </qresource>
+</RCC>
